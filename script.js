@@ -21,3 +21,4 @@
 //     return a+b;
 // }
 
+const x = 10;
